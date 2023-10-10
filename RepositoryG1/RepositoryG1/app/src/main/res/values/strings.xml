@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Repository G-1</string>
+    <string-array name="theme_options">
+        <item>Default</item>
+        <item>Dark Theme</item>
+        <item>Light Theme</item>
+    </string-array>
+
+    <string name="save">Save</string>
+    <string name="go_to_second">Go to 2-nd</string>
+    <string name="hint_for_input">Enter your text here</string>
+
+
+</resources>
